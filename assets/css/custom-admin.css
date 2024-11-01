@@ -1,0 +1,17 @@
+/*
+* Custom CSS file for plugin admin pages
+*/
+
+
+.smartsoftbutton-banner-box {
+    box-sizing: border-box;
+    display: flex;
+    background: white;
+    border: 1px solid rgba(18, 155, 244, 0.3);
+    align-items: center;
+    box-shadow: 4px 4px rgba(200, 215, 225, 0.5),0 1px 2px #e9eff3;
+    padding: 1px 2px;
+}
+.smartsoftbutton-banner-box .image-banner{
+    display: inline;
+}
